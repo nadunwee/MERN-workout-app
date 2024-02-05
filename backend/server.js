@@ -26,6 +26,6 @@ mongoose
       console.log("connected to DB & listning on port", process.env.PORT);
     });
   })
-  .catch(() => {
+  .catch((error) => {
     console.log(error);
   });
