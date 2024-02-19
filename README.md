@@ -1,5 +1,7 @@
 # Workout Planner - MERN Application
 
+![screenshot](https://github.com/nadunwee/MERN-workout-app/blob/main/frontend/public/screenshot.jpg)
+
 ## Description
 Workout Planner is a web application built using the MERN stack that allows users to create, view, and delete workouts. Users can create personalized workout routines.
 
